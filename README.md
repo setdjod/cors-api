@@ -1,1 +1,3 @@
-# cors-api
+# API CORS BYPASS
+
+Just for Testing

@@ -1,0 +1,25 @@
+{
+  "name": "cors",
+  "version": "0.1.1",
+  "description": "CORS API",
+  "main": "index.js",
+  "dependencies": {
+    "http-proxy": "^1.17.0",
+    "proxy-from-env": "1.0.0"
+  },
+  "devDependencies": {
+    "coveralls": "^3.0.4",
+    "eslint": "^5.16.0",
+    "istanbul": "^0.4.5",
+    "lolex": "^4.1.0",
+    "mocha": "^6.1.4",
+    "nock": "^10.0.6",
+    "nodemon": "^1.19.1",
+    "supertest": "^4.0.2"
+  },
+  "scripts": {
+    "start": "node .",
+    "dev": "nodemon .",
+    "lint": "eslint ."
+  }
+}
